@@ -1,0 +1,8 @@
+permalink: /blog/:year/:month/:day/:title/
+author: Jian Sun
+pygments: true
+safe: true
+paginate: 16
+auto: true
+kramdown:
+  input: GFM
