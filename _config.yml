@@ -1,7 +1,0 @@
-permalink: /blog/:year/:month/:day/:title/
-pygments: true
-safe: true
-paginate: 16
-auto: true
-kramdown:
-  input: GFM
