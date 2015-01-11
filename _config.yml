@@ -1,4 +1,5 @@
 permalink: /blog/:year/:month/:day/:title/
+url: http://sjsprecious.github.io
 author: Jian Sun
 pygments: true
 safe: true
