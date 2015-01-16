@@ -15,4 +15,4 @@ tags:
 
 ## 1. click the link for edition
 
-[UTK Bible study calendar](www.google.com)
+[UTK Bible study calendar](http://www.google.com)
