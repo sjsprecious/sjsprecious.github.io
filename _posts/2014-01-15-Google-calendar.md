@@ -25,6 +25,6 @@ tags:
 
 ## 3. 河南“郑能量”（Thanks for the info from Tingxing Dong)<br><br>
 
-多一份爱心，少一份歧视，人间自由真情在！<br><br>
+**多一份爱心，少一份歧视，人间自由真情在！**<br><br>
 
-[河南“郑能量”--来源：新浪]（http://henan.sina.com.cn/news/s/2013-01-29/0711-49502.html）
+[Sina link]（http://henan.sina.com.cn/news/s/2013-01-29/0711-49502.html）
