@@ -19,6 +19,6 @@ tags:
 
 ## 2. Bible study material
 
-### **Note:\ ** The material may be mis-leading. Just for your information and take what you want!!!
+### **Note:** &nbsp;&nbsp;The material may be mis-leading. Just for your information and take what you want!!!
 
 [ccbiblestudy](http://www.ccbiblestudy.org/index-T.htm)
