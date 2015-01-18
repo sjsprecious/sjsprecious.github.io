@@ -15,7 +15,7 @@ tags:
 
 ## 1. UTK Bible Study Group Fruit Arrangement<br>
 
-[Calendar](https://www.google.com/calendar/render?tab=wc#g)<br><br>
+[Calendar](https://www.google.com/calendar/embed?src=sjsprecious%40gmail.com&ctz=America/New_York)<br><br>
 
 ## 2. Bible Study Material<br>
 
