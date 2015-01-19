@@ -7,7 +7,7 @@ tags:
 - Bible study 
 ---
 
-# Google Calendar
+# UTK Bible Study Group
 
 ----------------
 
