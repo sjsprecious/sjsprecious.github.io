@@ -1,13 +1,11 @@
 --- 
 layout: post
-title: Google calendar
-description: "Google Calendar"
-category: Technique
+title: UTK Bible Study Group
+description: "UTK Bible Study Group"
+category: Bible
 tags: 
 - Bible study 
 ---
-
-
 
 # Google Calendar
 
@@ -21,7 +19,10 @@ tags:
 
 ### **Note:** &nbsp;The material may be mis-leading. Just for your information and take what you want!!!<br>
 
-[ccbiblestudy](http://www.ccbiblestudy.org/index-T.htm)<br><br>
+[ccbiblestudy](http://www.ccbiblestudy.org/index-T.htm)<br>
+
+[hrbenlu](http://www.hrbenlu.com/)<br><br>
+
 
 ## 3. 河南“郑能量”（Thanks for the info from Tingxing Dong)<br>
 
