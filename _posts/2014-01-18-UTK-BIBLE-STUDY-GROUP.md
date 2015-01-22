@@ -21,11 +21,11 @@ tags:
 
 [ccbiblestudy](http://www.ccbiblestudy.org/index-T.htm)<br>
 
-[hrbenlu](http://www.hrbenlu.com/)<br><br>
+[Huan ran ben lu](http://www.hrbenlu.com/)<br><br>
 
 
-## 3. 河南“郑能量”（Thanks for the info from Tingxing Dong)<br>
+## 3. 河南“郑能量”(Thanks for the info from Tingxing Dong)<br>
 
 **多一份爱心，少一份歧视，人间自由真情在！**<br>
 
-[Sina link](http://henan.sina.com.cn/news/s/2013-01-29/0711-49502.html)
+[Sina Link](http://henan.sina.com.cn/news/s/2013-01-29/0711-49502.html)
