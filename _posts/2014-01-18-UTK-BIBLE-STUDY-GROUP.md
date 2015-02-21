@@ -4,7 +4,7 @@ title: UTK Bible Study Group
 description: "UTK Bible Study Group"
 category: Bible
 tags: 
-- Bible study 
+- Bible Study 
 ---
 
 # UTK Bible Study Group
