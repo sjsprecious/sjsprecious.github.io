@@ -11,20 +11,27 @@ tags:
 
 ----------------
 
-## **Nieh Shimu** 60th birthday party & **Lantern Festival** party<br><br>
+## **03-06: ** Nieh Shimu 60th birthday party & Lantern Festival party<br><br>
+
+### a. Nieh laoshi & Nieh shimu<br>
 
 <div align="center">
 
 <table>
 <tr>
 <td>
-<img src="/assets/images/2015/03/06/2015_knoxville30.png" alt="moves1" style="width: 250px; height: 150px;"/>
+<img src="/assets/images/2015/03/06/2015_knoxville30.png" alt="moves1" style="width: 350px; height: 250px;"/>
 </td>
 <td>
-<img src="/assets/images/2015/03/06/2015_knoxville41.png" alt="moves2" style="width: 250px; height: 150px;"/>
+<img src="/assets/images/2015/03/06/2015_knoxville41.png" alt="moves2" style="width: 350px; height: 250px;"/>
 </td>
 </tr>
 </table>
+
+</div>
+
+
+### b. DIY Birthday Cake<br>
 
 <table>
 <tr>
@@ -40,10 +47,11 @@ tags:
 </tr>
 </table>
 
-</div>
 
-<img src="/assets/images/2015/03/06/2015_knoxville51.png" alt="moves6" style="width: 250px; height: 150px;"/>
+### Fellowship Picture of UTK Bible Study Group<br>
 
-<img src="/assets/images/2015/03/06/2015_knoxville52.png" alt="moves7" style="width: 250px; height: 150px;"/>
+<img src="/assets/images/2015/03/06/2015_knoxville51.png" alt="moves6" style="width: 550px; height: 250px;"/><br>
 
-<img src="/assets/images/2015/03/06/2015_knoxville55.png" alt="moves8" style="width: 250px; height: 150px;"/>
+<img src="/assets/images/2015/03/06/2015_knoxville52.png" alt="moves7" style="width: 550px; height: 250px;"/><br>
+
+<img src="/assets/images/2015/03/06/2015_knoxville55.png" alt="moves8" style="width: 550px; height: 250px;"/><br>
