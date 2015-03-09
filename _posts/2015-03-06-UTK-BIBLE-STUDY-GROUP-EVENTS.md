@@ -13,19 +13,37 @@ tags:
 
 ## **Nieh Shimu** &nbsp;60th birthday party & **Lantern Festival** &nbsp;party<br><br>
 
-![avatar](/assets/images/2015/03-06/2015_knoxville30.JPG)<br>
+<div align="center">
 
-![avatar](/assets/images/2015/03-06/2015_knoxville38.JPG)<br>
+<table>
+<tr>
+<td>
+<img src="/assets/images/2015/03-06/2015_knoxville30.JPG" alt="moves1" style="width: 250px; height: 150px;"/>
+</td>
+<td>
+<img src="/assets/images/2015/03-06/2015_knoxville41.JPG" alt="moves2" style="width: 250px; height: 150px;"/>
+</td>
+</tr>
+</table>
 
-![avatar](/assets/images/2015/03-06/2015_knoxville41.JPG)<br>
+<table>
+<tr>
+<td>
+<img src="/assets/images/2015/03-06/2015_knoxville38.JPG" alt="moves1" style="width: 250px; height: 150px;"/>
+</td>
+<td>
+<img src="/assets/images/2015/03-06/2015_knoxville45.JPG" alt="moves2" style="width: 250px; height: 150px;"/>
+</td>
+<td>
+<img src="/assets/images/2015/03-06/2015_knoxville48.JPG" alt="moves3" style="width: 250px; height: 150px;"/>
+</td>
+</tr>
+</table>
 
-![avatar](/assets/images/2015/03-06/2015_knoxville45.JPG)<br>
+</div>
 
-![avatar](/assets/images/2015/03-06/2015_knoxville48.JPG)<br>
+<img src="/assets/images/2015/03-06/2015_knoxville51.JPG" alt="moves3" style="width: 250px; height: 150px;"/>
 
-![avatar](/assets/images/2015/03-06/2015_knoxville51.JPG)<br>
+<img src="/assets/images/2015/03-06/2015_knoxville52.JPG" alt="moves3" style="width: 250px; height: 150px;"/>
 
-![avatar](/assets/images/2015/03-06/2015_knoxville52.JPG)<br>
-
-![avatar](/assets/images/2015/03-06/2015_knoxville55.JPG)<br>
-
+<img src="/assets/images/2015/03-06/2015_knoxville55.JPG" alt="moves3" style="width: 250px; height: 150px;"/>
