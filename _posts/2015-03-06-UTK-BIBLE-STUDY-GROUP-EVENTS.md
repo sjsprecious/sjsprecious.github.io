@@ -50,8 +50,8 @@ tags:
 
 ### c. Fellowship Picture of UTK Bible Study Group<br>
 
-<img src="/assets/images/2015/03/06/2015_knoxville51.png" alt="moves6" style="width: 850px; height: 550px;"/>
+<img src="/assets/images/2015/03/06/2015_knoxville51.png" alt="moves6" style="width: 850px; height: 450px;"/>
 
-<img src="/assets/images/2015/03/06/2015_knoxville52.png" alt="moves7" style="width: 850px; height: 550px;"/>
+<img src="/assets/images/2015/03/06/2015_knoxville52.png" alt="moves7" style="width: 850px; height: 500px;"/>
 
 <img src="/assets/images/2015/03/06/2015_knoxville55.png" alt="moves8" style="width: 850px; height: 550px;"/>
