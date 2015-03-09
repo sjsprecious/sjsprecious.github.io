@@ -11,7 +11,7 @@ tags:
 
 ----------------
 
-## **03-06: ** Nieh Shimu 60th birthday party & Lantern Festival party<br><br>
+## **03-06:** Nieh Shimu 60th birthday party & Lantern Festival party<br><br>
 
 ### a. Nieh laoshi & Nieh shimu<br>
 
