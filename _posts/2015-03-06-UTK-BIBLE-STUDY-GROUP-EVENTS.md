@@ -28,7 +28,7 @@ tags:
 </tr>
 </table>
 
-</div>
+</div><br>
 
 
 ### b. DIY Birthday Cake<br>
@@ -45,13 +45,13 @@ tags:
 <img src="/assets/images/2015/03/06/2015_knoxville48.png" alt="moves5" style="width: 250px; height: 150px;"/>
 </td>
 </tr>
-</table>
+</table><br>
 
 
-### Fellowship Picture of UTK Bible Study Group<br>
+### c. Fellowship Picture of UTK Bible Study Group<br>
 
-<img src="/assets/images/2015/03/06/2015_knoxville51.png" alt="moves6" style="width: 550px; height: 250px;"/><br>
+<img src="/assets/images/2015/03/06/2015_knoxville51.png" alt="moves6" style="width: 850px; height: 750px;"/>
 
-<img src="/assets/images/2015/03/06/2015_knoxville52.png" alt="moves7" style="width: 550px; height: 250px;"/><br>
+<img src="/assets/images/2015/03/06/2015_knoxville52.png" alt="moves7" style="width: 850px; height: 750px;"/>
 
-<img src="/assets/images/2015/03/06/2015_knoxville55.png" alt="moves8" style="width: 550px; height: 250px;"/><br>
+<img src="/assets/images/2015/03/06/2015_knoxville55.png" alt="moves8" style="width: 850px; height: 750px;"/>
