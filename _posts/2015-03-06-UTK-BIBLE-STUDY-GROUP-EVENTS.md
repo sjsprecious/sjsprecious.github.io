@@ -54,14 +54,13 @@ tags:
 
 <img src="/assets/images/2015/03/06/2015_knoxville52.png" alt="moves7" style="width: 850px; height: 450px;"/>
 
-<img src="/assets/images/2015/03/06/2015_knoxville55.png" alt="moves8" style="width: 850px; height: 450px;"/>
+<img src="/assets/images/2015/03/06/2015_knoxville55.png" alt="moves8" style="width: 850px; height: 450px;"/><br>
 
+## **04-24:** Fellowship Picture of UTK Bible Study Group<br><br>
 
-## **04-24:** Fellowship Picture of UTK Bible Study Group<br>
+<img src="/assets/images/2015/04/27/biblegroup.JPG" alt="moves6" style="width: 850px; height: 450px;"/><br>
 
-<img src="/assets/images/2015/04/27/biblegroup.JPG" alt="moves6" style="width: 850px; height: 450px;"/>
-
-## **04-27:** Easter Baptism picture<br>
+## **04-27:** Easter Baptism picture<br><br>
 
 <div align="center">
 
