@@ -87,10 +87,10 @@ tags:
 <table>
 <tr>
 <td>
-<img src="/assets/images/2015/05/14/group_pic1.JPG" alt="moves1" style="width: 350px; height: 250px;"/>
+<img src="/assets/images/2015/05/14/group_pic1.JPG" alt="moves1" style="width: 550px; height: 350px;"/>
 </td>
 <td>
-<img src="/assets/images/2015/05/14/group_pic2.JPG" alt="moves2" style="width: 350px; height: 250px;"/>
+<img src="/assets/images/2015/05/14/group_pic2.JPG" alt="moves2" style="width: 550px; height: 350px;"/>
 </td>
 </tr>
 </table>
