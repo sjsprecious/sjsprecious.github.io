@@ -97,8 +97,6 @@ tags:
 
 </div><br>
 
-</div><br>
-
 ## **05-22:** Farewell party for Li"'"s Family<br><br>
 
 <div align="center">
