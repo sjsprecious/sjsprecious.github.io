@@ -104,10 +104,10 @@ tags:
 <table>
 <tr>
 <td>
-<img src="/assets/images/2015/05/23/pic1.JPG" alt="moves1" style="width: 550px; height: 350px;"/>
+<img src="/assets/images/2015/05/23/pic1.jpg" alt="moves1" style="width: 550px; height: 350px;"/>
 </td>
 <td>
-<img src="/assets/images/2015/05/23/pic2.JPG" alt="moves2" style="width: 550px; height: 350px;"/>
+<img src="/assets/images/2015/05/23/pic2.jpg" alt="moves2" style="width: 550px; height: 350px;"/>
 </td>
 </tr>
 </table>
