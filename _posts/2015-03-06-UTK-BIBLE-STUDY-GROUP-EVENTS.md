@@ -121,16 +121,16 @@ tags:
 <table>
 <tr>
 <td>
-<img src="/assets/images/2015/07/24/dinner.JPG" alt="moves1" style="width: 550px; height: 350px;"/>
+<img src="/assets/images/2015/07/24/dinner.JPG" alt="moves1" style="width: 150px; height: 100px;"/>
 </td>
 <td>
-<img src="/assets/images/2015/07/25/photo1.JPG" alt="moves2" style="width: 550px; height: 350px;"/>
+<img src="/assets/images/2015/07/25/photo1.JPG" alt="moves2" style="width: 150px; height: 100px;"/>
 </td>
 <td>
-<img src="/assets/images/2015/07/25/photo2.JPG" alt="moves3" style="width: 550px; height: 350px;"/>
+<img src="/assets/images/2015/07/25/photo2.JPG" alt="moves3" style="width: 150px; height: 100px;"/>
 </td>
 <td>
-<img src="/assets/images/2015/07/25/photo3.JPG" alt="moves4" style="width: 550px; height: 350px;"/>
+<img src="/assets/images/2015/07/25/photo3.JPG" alt="moves4" style="width: 150px; height: 100px;"/>
 </td>
 </tr>
 </table>
