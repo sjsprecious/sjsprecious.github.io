@@ -87,7 +87,7 @@ tags:
 <table>
 <tr>
 <td>
-<img src="/assets/images/2015/05/14/group_pic1.JPG" alt="moves1" style="width: 550px; height: 300px;"/>
+<img src="/assets/images/2015/05/14/group_pic1.JPG" alt="moves1" style="width: 550px; height: 250px;"/>
 </td>
 <td>
 <img src="/assets/images/2015/05/14/group_pic2.JPG" alt="moves2" style="width: 550px; height: 300px;"/>
@@ -121,16 +121,17 @@ tags:
 <table>
 <tr>
 <td>
-<img src="/assets/images/2015/07/24/dinner.JPG" alt="moves1" style="width: 150px; height: 100px;"/>
+<img src="/assets/images/2015/07/24/dinner.JPG" alt="moves1" style="width: 450px; height: 300px;"/>
 </td>
 <td>
-<img src="/assets/images/2015/07/25/photo1.jpg" alt="moves2" style="width: 150px; height: 100px;"/>
+<img src="/assets/images/2015/07/25/photo1.jpg" alt="moves2" style="width: 450px; height: 300px;"/>
+</td>
+<br>
+<td>
+<img src="/assets/images/2015/07/25/photo2.jpg" alt="moves3" style="width: 450px; height: 300px;"/>
 </td>
 <td>
-<img src="/assets/images/2015/07/25/photo2.jpg" alt="moves3" style="width: 150px; height: 100px;"/>
-</td>
-<td>
-<img src="/assets/images/2015/07/25/photo3.jpg" alt="moves4" style="width: 150px; height: 100px;"/>
+<img src="/assets/images/2015/07/25/photo3.jpg" alt="moves4" style="width: 450px; height: 300px;"/>
 </td>
 </tr>
 </table>
