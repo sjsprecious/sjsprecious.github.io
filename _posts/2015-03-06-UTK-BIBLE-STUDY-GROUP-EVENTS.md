@@ -126,7 +126,11 @@ tags:
 <td>
 <img src="/assets/images/2015/07/25/photo1.jpg" alt="moves2" style="width: 450px; height: 300px;"/>
 </td>
-<br>
+</tr>
+</table>
+
+<table>
+<tr>
 <td>
 <img src="/assets/images/2015/07/25/photo2.jpg" alt="moves3" style="width: 450px; height: 300px;"/>
 </td>
