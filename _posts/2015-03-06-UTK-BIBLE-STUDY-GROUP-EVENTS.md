@@ -151,10 +151,10 @@ tags:
 <table>
 <tr>
 <td>
-<img src="/assets/images/2015/09/19/IMG_4658.JPG" alt="moves1" style="width: 450px; height: 300px;"/>
+<img src="/assets/images/2015/09/19/IMG_4658.JPG" alt="moves1" style="width: 550px; height: 350px;"/>
 </td>
 <td>
-<img src="/assets/images/2015/09/19/IMG_4675.jpg" alt="moves2" style="width: 450px; height: 300px;"/>
+<img src="/assets/images/2015/09/19/IMG_4675.jpg" alt="moves2" style="width: 550px; height: 350px;"/>
 </td>
 </tr>
 </table>
