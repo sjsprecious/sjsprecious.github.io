@@ -143,3 +143,21 @@ tags:
 </table>
 
 </div><br>
+
+## **09-18&19:** Farewell party for Brother Tingxing<br><br>
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+<img src="/assets/images/2015/09/19/IMG_4658.JPG" alt="moves1" style="width: 450px; height: 300px;"/>
+</td>
+<td>
+<img src="/assets/images/2015/09/19/IMG_4675.jpg" alt="moves2" style="width: 450px; height: 300px;"/>
+</td>
+</tr>
+</table>
+
+</div><br>
+
