@@ -161,3 +161,12 @@ tags:
 
 </div><br>
 
+## **11-29:** Thanksgiving Baptism for Sister Wenjing<br><br>
+
+<img src="/assets/images/2015/11/29/IMG_8058.JPG" alt="moves1" style="width: 850px; height: 450px;"/>
+
+<img src="/assets/images/2015/11/29/IMG_8060.JPG" alt="moves1" style="width: 850px; height: 450px;"/>
+
+<img src="/assets/images/2015/11/29/IMG_8063.JPG" alt="moves1" style="width: 850px; height: 450px;"/>
+
+<img src="/assets/images/2015/11/29/IMG_8066.JPG" alt="moves1" style="width: 850px; height: 450px;"/><br>
